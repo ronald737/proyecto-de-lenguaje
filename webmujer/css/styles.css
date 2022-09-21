@@ -1,0 +1,31 @@
+
+
+    .titulo-1{
+        color: #1115ec ;
+        font-family: cursive;
+        font-size: 2em ;
+        text-decoration: underline ;
+        text-transform: uppercase;
+        text-align: center;
+        
+    }
+
+    .titulo-2{
+        color: blueviolet;
+        font-family: Roboto ;
+        font-size: 2em ;
+        text-decoration: underline ;
+        text-transform: uppercase;
+        text-align: center; 
+
+       
+    }
+
+    .parrafo-nosotros{
+        color: #000000 ;
+        font-family: cursive;
+        font-size: 1em ;
+        text-decoration: underline ;
+        text-transform: uppercase;
+        text-align:right;
+    }
