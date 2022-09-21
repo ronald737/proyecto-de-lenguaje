@@ -1,4 +1,50 @@
-
+*{
+    padding: 0;
+    margin: 0;
+  }
+  h1 {
+      text-align: center;
+      background-color: black;
+      font-family: 'Lato', sans-serif;
+      color: white;
+      padding: 20px;
+  }
+  h2{
+      text-align: center;
+      background-color: #79F57F;
+      font-family: 'Lato', sans-serif;
+      color: white;
+      
+  }
+  h3{
+      text-align: center;
+      background-color: #79F57F;
+      font-family: 'Lato', sans-serif;
+      color: white;
+  }
+  nav ul{
+         background-color: #79F5E6;
+         width: 100%;
+         list-style-type: none;
+         text-align: center;
+  }
+  nav li{
+         display: inline-flex;
+  }
+  nav a {
+      text-decoration: none;
+      color: white;
+      padding: 10px;
+      width: 150px;
+  }
+  nav li:hover {
+      background-color: black;
+  }
+  p{
+      display: flex;
+      margin: 60px;
+  
+  }
 
     .titulo-1{
         color: #1115ec ;
