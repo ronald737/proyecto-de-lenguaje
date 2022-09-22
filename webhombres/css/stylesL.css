@@ -3,7 +3,7 @@
     margin: 0;
   }
   h1 {
-    text-align: center;
+     text-align: center;
      background-color: #FFBD33;
      color: black;
      padding: 20px;
@@ -66,5 +66,9 @@ nav li:hover {
   p{
       display: flex;
       margin: 60px;
+      text-align: left;
   
+  }
+  form{
+    text-align: left;
   }
