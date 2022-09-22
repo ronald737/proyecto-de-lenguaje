@@ -25,3 +25,31 @@ nav li:hover {
 h2{
     text-align: center;
 }
+.conjuntos{
+    background-color: rgb(231, 199, 156);
+    text-align: center;
+    font-size: 2em ;
+
+
+}
+
+.vestido{
+    background-color: rgb(231, 199, 156);
+    text-align: center;
+    font-size: 2em ;
+    
+
+}
+
+.blusa{
+    background-color: rgb(231, 199, 156);
+    text-align: center;
+    font-size: 2em ;
+
+}
+
+.pantalonmujer{
+    background-color: rgb(231, 199, 156);
+    text-align: center;
+    font-size: 2em ;
+}
