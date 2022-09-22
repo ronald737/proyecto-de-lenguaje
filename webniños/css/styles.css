@@ -41,11 +41,11 @@ nav li {
 nav a {
     text-decoration: none;
     color: black;
-    padding: 10px;
-    width: 150px;
+    padding: 1px;
+    width: 12em;
 }
 nav li:hover {
-    background-color: #baf56e;
+    background-color: #FFC300;
 }
 .polo{
     font-size: 2em ;
