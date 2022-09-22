@@ -1,3 +1,8 @@
+h1{
+    text-align: center;
+    background-color: #FFBD33;
+    padding: 10px;
+}
 nav {
     width: 100%;
     list-style-type: none;
@@ -14,7 +19,7 @@ nav a {
     width: 150px;
 }
 nav li:hover {
-    background-color: #baf56e;
+    background-color: #FFC300;
 }
 .img {
     padding: 0 20px 20px;
