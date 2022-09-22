@@ -1,13 +1,12 @@
 h1{
     text-align: center;
     font-family: 'Lato', sans-serif;
-    background-color: rgb(33, 218, 42);
+    background-color: chartreuse;
     padding: 10px;
 }
 nav ul{
     text-align: center;
    list-style-type: none;
-   background-color: black;
 }
 nav li{
     display: inline-flex;
@@ -20,7 +19,7 @@ nav a{
     
 }
 nav li:hover {
-    background-color: rgb(33, 218, 42);
+    background-color: #baf56e;
 }
 h2{
     text-align: center;
