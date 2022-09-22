@@ -3,7 +3,7 @@
     margin: 0;
 }
 h1 { text-align: center;
-     background-color: chartreuse;
+     background-color: #FFBD33;
      color: black;
      padding: 20px;
 }
@@ -23,7 +23,7 @@ nav a {
     width: 150px;
 }
 nav li:hover {
-    background-color: #baf56e;
+    background-color: #FFC300;
 }
 img {
     width: 600px;
