@@ -27,6 +27,9 @@
     font-family: 'Lato', sans-serif;
     color: white;
 }
+h5{
+    text-align: center;
+}
 nav {
     width: 100%;
     list-style-type: none;
